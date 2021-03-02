@@ -124,8 +124,6 @@ const Bg = {
   },
 };
 
-console.log(Font.italic("halo"));
-
 module.exports.Color = Color;
 module.exports.Font = Font;
 module.exports.Bg = Bg;
