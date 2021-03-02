@@ -1,0 +1,19 @@
+this is in progress file, will add in next update
+~ erlangga
+
+DO NOT CHANGE THIS FILE     
+
+
+
+const Bright = {
+  version: version,
+  red: function (...text) {
+    result = text.toString();
+    return style.redBright.open + result + style.redBright.close;
+  },
+
+  green: function (...text) {
+    result = text.toString();
+    return style.greenBright.open + result + style.greenBright.close;
+  }
+};

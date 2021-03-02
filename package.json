@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "ansi-styles": "^5.1.0"
+  },
+  "name": "eapstyles",
+  "description": "_because creative is you_",
+  "version": "1.1.5",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasha1110/eapstyles.git"
+  },
+  "keywords": [
+    "cli",
+    "color",
+    "terminal",
+    "style",
+    "rainbow",
+    "creative"
+  ],
+  "author": "erlangga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pasha1110/eapstyles/issues"
+  },
+  "homepage": "https://github.com/pasha1110/eapstyles#readme"
+}

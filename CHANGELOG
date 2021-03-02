@@ -1,0 +1,15 @@
+VERSION 1.1.5
+
+release: 2 march 2021
+license: MIT
+author: erlangga
+git: https://www.github.com/pasha1110/eapstyles
+point: index.js
+
+feture:
+    adding Font Object,
+    adding Color Object,
+    adding Bg Object,
+
+
+this is first release date and you can follow my github for see new project notifications
